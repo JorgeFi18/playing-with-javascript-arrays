@@ -1,0 +1,14 @@
+{
+  "name": "playing-with-javascript-arrays",
+  "version": "1.0.0",
+  "description": "Practical tutorial to enhance Javascript Arrays knowledge",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Jorge Figueroa",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
