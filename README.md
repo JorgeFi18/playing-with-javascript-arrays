@@ -29,7 +29,7 @@ In this practical tutorial you will learn/practice the different methods that ja
 
 ### Array
 
-> Arrays are objects similar to a list whose prototype provides methods for performing routing and mutating operations. Both the length and type of elements in an array are variable. Because the length of an array can change at any time, and data can be stored in noncontiguous locations, there is no guarantee that JavaScript arrays are dense; this depends on how the programr chooses to use them.
+> Arrays are objects similar to a list whose prototype provides methods for performing routing and mutating operations. Both the length and type of elements in an array are variable. Because the length of an array can change at any time, and data can be stored in noncontiguous locations, there is no guarantee that JavaScript arrays are dense; this depends on how the programer chooses to use them.
 
 ### Jest
 
@@ -84,7 +84,7 @@ Each section has their code on the `src` folder organized by folders, the source
 
 Jest provide us enough information to see what is happening and what should we change to fix it.
 
-We need to pay atention on the Expeted and Received values.
+We need to pay atention on the Expected and Received values.
 
 ![Demo Ilustration](images/demo-failure.png)
 
@@ -94,7 +94,7 @@ In this case the expect value is 4, but we are getting undefined.
 
 We need to go to `src/00-Demo/demo.js` and see what we have.
 
-Surprice! we have a function that is returning anything, let's to change something to make it pass.
+Surprise! we have a function that is returning anything, let's to change something to make it pass.
 
 We need to return a simple sum of the two variables, our demo function will look like this:
 
