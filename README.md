@@ -48,7 +48,7 @@ In this practical tutorial you will learn/practice the different methods that ja
 1. Clone github repository
 
 ```sh
-git clone
+git clone https://github.com/JorgeFi18/playing-with-javascript-arrays.git
 ```
 
 2. Install NPM depedencies
